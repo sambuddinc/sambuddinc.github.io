@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-10-04-Surface-Agnostic-Metrics-for-Cortical-Volume-Segmentation-and-Regression
 excerpt: 'A novel deep learning method for extraction of cortical segmentations and metrics from whole brain MRI
 images.'
-date: 2020-10-0.4
+date: 2020-10-04
 venue: 'MLCN @ MICCAI'20'
 paperurl: 'https://arxiv.org/abs/2010.01669'
 citation: 'Budd, S. (2020). &quot;Surface Agnostic Metrics for Cortical Volume Segmentation and Regression".&quot; <i>MLCN @ MICCAI'2020</i>. 1(1).'
