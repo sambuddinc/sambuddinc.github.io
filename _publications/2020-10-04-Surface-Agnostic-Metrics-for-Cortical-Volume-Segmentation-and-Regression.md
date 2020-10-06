@@ -1,7 +1,7 @@
 ---
 title: "Surface Agnostic Metrics for Cortical Volume Segmentation and Regression"
 collection: publications
-permalink: /publication/2020-10-04-Surface-Agnostic-Metrics-for-Cortical-Volume-Segmentation-and-Regression
+permalink: /publications/2020-10-04-Surface-Agnostic-Metrics-for-Cortical-Volume-Segmentation-and-Regression
 excerpt: 'A novel deep learning method for extraction of cortical segmentations and metrics from whole brain MRI
 images.'
 date: 2020-10-04
