@@ -85,10 +85,9 @@ author:
   bio              : "PhD Candidate with BioMedIA, Imperial College London. Deep Learning for Human-in-the-Loop Computing"
   location         : "London"
   employer         : "Imperial College London"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=samuel+budd"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  "https://scholar.google.com/citations?user=DmDaHS4AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=DmDaHS4AAAAJ&hl=en"
+  email            : 
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
