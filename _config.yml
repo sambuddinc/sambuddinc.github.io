@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "UA-179773827-1"
 
 
 # Site Author
@@ -86,9 +86,9 @@ author:
   location         : "London"
   employer         : "Imperial College London"
   googlescholar    : "https://scholar.google.com/citations?user=DmDaHS4AAAAJ&hl=en"
-  email            : 
+  email            : "budd.samuel@gmail.com"
   researchgate     : 
-  uri              :
+  uri              : "http://corticalexplorer.com/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -101,10 +101,10 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/samuelbudd/"
   orcid            : "https://orcid.org/0000-0002-9062-0013"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "https://soundcloud.com/jungledoctors"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
